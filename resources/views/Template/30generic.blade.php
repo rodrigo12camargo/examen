@@ -48,7 +48,7 @@
 						<div class="inner">
 							<h1>T30 Describir el desarrollo a partir del MVC, en las arquitecturas Cliente/Servidor</h1>
 							<span class="image main">
-								<img src="images/MVC.jpg" alt="" />
+								<img src="images/MVC.jpeg" alt="" />
 							</span>
 
 							<p>1. El usuario interactúa, de alguna forma, con la interfaz de usuario. </p>

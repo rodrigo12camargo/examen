@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title>T34</title>
+		<title>T35</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="/css/main.css" />
@@ -46,9 +46,8 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>T34 Explicar el proceso del uso de sockets en aplicaciones. </h1>
-							<span class="image main"> </span>
-							<span class="image main"><img src="images/pic01.jpg" alt="" /></span>
+							<h1>T35 Explicar el proceso del uso de sockets en aplicaciones. </h1>
+							<span class= "image main"><img src="images/SOCKETS.jpeg" alt="">  </span>
 						</div>
 					</div>
 			</div>

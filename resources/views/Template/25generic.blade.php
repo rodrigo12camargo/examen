@@ -46,7 +46,7 @@
 				<!-- Main -->
 					<div id="main">
 						<div class="inner">
-							<h1>T25 Proceso de planificacion en 3 niveles</h1>
+							<h1>T25 Proceso de planificacion en tres niveles</h1>
 							<span class="image main"></span>
 							<p>La idealizacion tiene 3 niveles, el primero es el grado estetico, el segundo es el grado progragmatico y el tercero es el grado operativo</p>
 							<h2>Grado de idealizacion estetica</h2> 

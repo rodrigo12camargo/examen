@@ -48,7 +48,7 @@
 						<div class="inner">
 							<h1>T31 Definir el concepto de comunicacion orientada a conexion e interfaz de programacion de aplicaciones (API).</h1>
 							<span class="image main"></span>
-							<span class="image main"><img src="public/images/API.jpeg" alt="" /></span>
+							<span class="image main"><img src="images/API.jpeg" alt="" /></span>
 							<p>Una API o interfaz de programación de aplicaciones es un conjunto de definiciones y protocolos que se usa para diseñar e integrar el software de las aplicaciones.</p>
 						</div>
 					</div>
