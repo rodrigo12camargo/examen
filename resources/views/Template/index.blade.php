@@ -29,7 +29,7 @@
 						<div class="inner">
 							<header>
 								<h1>Rodrigo Jesus Camargo Gonzalez <br> Orlado García Olguin <br> Sebastian Gerardo Samperio Isunza<br />
-								 Link a <a href="https://github.com/SebastianSamperio/Examen1U-Cliente-Servidor.git">GitHub</a>.</h1>
+								
 								<p>3322IS 5TO CUATRIMESTRE.</p>
 							</header>
 							<section class="tiles">
@@ -226,6 +226,171 @@
 									</span>
 									<a href="{{('18generic')}}">
 										<h2>Arquitectura Cliente/Servidor con lod modelos de computo en la nube IAAS, BAAS, ISAAS</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<a href="{{('19Rgeneric')}}">
+										<h2>Conceptos de presentacion distribuida, presentacion remota, logica o proceso distribuido, acceso a datos remotos y bases de datos distribuidas.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="{{('20generic')}}">
+										<h2>Conceptos de logica de acceso, presentacion y negocio a datos.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<a href="{{('21generic')}}">
+										<h2>Proceso de diseño de logica de acceso a datos, logica de presentacion de datos y logica de negocio o logica de aplicacion.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<a href="{{('22generic')}}">
+										<h2>Proceso de desarrollo de logica de acceso a datos, logica de presentacion de datos y logica de negocio o logica de aplicacion.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<a href="{{('23generic')}}">
+										<h2>Definir el concepto de nivel vinculado a programacion web.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<a href="{{('24generic')}}">
+										<h2>Proceso de planificacion en dos niveles.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="{{('25generic')}}">
+										<h2>Proceso de planificacion en tres niveles.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style1">
+									<span class="image">
+										<img src="images/pic01.jpg" alt="" />
+									</span>
+									<a href="{{('26generic')}}">
+										<h2>Proceso de planificacion multiniveles</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style3">
+									<span class="image">
+										<img src="images/pic03.jpg" alt="" />
+									</span>
+									<a href="{{('27generic')}}">
+										<h2>Reconocer los conceptos de modelo, control y vista, en las arquitecturas cliente servidor.</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style5">
+									<span class="image">
+										<img src="images/pic05.jpg" alt="" />
+									</span>
+									<a href="{{('28generic')}}">
+										<h2>Concepto de modelo vista controlador (MVC) en las arquitecturas Cliente/Servidor</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="{{('29generic')}}">
+										<h2>Proceso de flujo de control a ppartir del MVC, en las arquitecturas Cliente/Servidor</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<a href="{{('30generic')}}">
+										<h2>Definir el concepto de comunicacion orientada a conexion e interfaz de programacion de aplicaciones(API)</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style2">
+									<span class="image">
+										<img src="images/pic02.jpg" alt="" />
+									</span>
+									<a href="{{('31generic')}}">
+										<h2>Proceso de comunicacion y configuracion orientada a conexion e interfaz de progrmacion de aplicaciones (API)</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style4">
+									<span class="image">
+										<img src="images/pic04.jpg" alt="" />
+									</span>
+									<a href="{{('32generic')}}">
+										<h2>Concepto de stockets</h2>
+										<div class="content">
+											<p></p>
+										</div>
+									</a>
+								</article>
+								<article class="style6">
+									<span class="image">
+										<img src="images/pic06.jpg" alt="" />
+									</span>
+									<a href="{{('33generic')}}">
+										<h2>Proceso del uso de stockets en aplicaciones Cliente/Servidor</h2>
 										<div class="content">
 											<p></p>
 										</div>

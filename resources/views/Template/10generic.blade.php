@@ -53,7 +53,7 @@
 						</div>
 					</div>
 
-				<!-- Footer -->
+				<!-- Footer 
 					<footer id="footer">
 						<div class="inner">
 							<section>
@@ -94,7 +94,7 @@
 						</div>
 					</footer>
 
-			</div>
+			</div>-->
 
 		<!-- Scripts -->
 			<script src="/js/jquery.min.js"></script>
