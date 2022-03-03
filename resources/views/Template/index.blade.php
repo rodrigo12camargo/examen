@@ -29,7 +29,7 @@
 						<div class="inner">
 							<header>
 								<h1>Rodrigo Jesus Camargo Gonzalez <br> Orlado García Olguin <br> Sebastian Gerardo Samperio Isunza<br />
-								
+								<br>
 								<p>3322IS 5TO CUATRIMESTRE.</p>
 							</header>
 							<section class="tiles">
