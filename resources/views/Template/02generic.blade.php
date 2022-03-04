@@ -23,7 +23,7 @@
 							<!-- Nav -->
 								<nav>
 									<ul>
-										<li><a href="{{('inicio')}}">Menu</a></li>
+										<li><a href="{{('/')}}">Menu</a></li>
 									</ul>
 								</nav>
 
@@ -34,7 +34,7 @@
 					<nav id="menu">
 						<h2>Menu</h2>
 						<ul>
-							<li><a href="{{('inicio')}}">Inicio</a></li>
+							<li><a href="{{('/')}}">Inicio</a></li>
 
 						</ul>
 					</nav>

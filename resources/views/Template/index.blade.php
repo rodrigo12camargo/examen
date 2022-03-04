@@ -28,10 +28,16 @@
 					<div id="main">
 						<div class="inner">
 							<header>
-								<h1>Rodrigo Jesus Camargo Gonzalez <br> Orlado García Olguin <br> Sebastian Gerardo Samperio Isunza<br />
+								<h1>Rodrigo Jesus Camargo Gonzalez <br> Orlando García Olguin <br> Sebastian Gerardo Samperio Isunza<br />
 								<br>
 								<p>3322IS 5TO CUATRIMESTRE.</p>
 							</header>
+							<section>
+                                    <hr />
+                                    <div style='text-align:center'>
+                                    <h1>Unidad 1</h1>
+                                    <hr />
+                                </section>
 							<section class="tiles">
 								<article class="style1">
 									<span class="image">
@@ -231,6 +237,14 @@
 										</div>
 									</a>
 								</article>
+								</section>
+								<section>
+										<hr />
+										<div style='text-align:center'>
+										<h1>Unidad 2</h1>
+										<hr />
+									</section>
+								<section class="tiles">
 								<article class="style1">
 									<span class="image">
 										<img src="images/pic01.jpg" alt="" />
