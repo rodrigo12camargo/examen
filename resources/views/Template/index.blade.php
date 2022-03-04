@@ -249,7 +249,7 @@
 									<span class="image">
 										<img src="images/pic01.jpg" alt="" />
 									</span>
-									<a href="{{('19Rgeneric')}}">
+									<a href="{{('19generic')}}">
 										<h2>Conceptos de presentacion distribuida, presentacion remota, logica o proceso distribuido, acceso a datos remotos y bases de datos distribuidas.</h2>
 										<div class="content">
 											<p></p>
